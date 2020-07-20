@@ -1,0 +1,2 @@
+# faceandeye-detector-using-openCV
+Face and eye detection using two simple library , numpy and cv2(Computer Vision).Using cv2 we first accessed our webcam to capture Frames of video then used a HaarCascade which is used to detect faces and eyes. After this we took each frame of video and then detected face and eye and got coordinates for these and then using these coordinates we drew rectangle among the located. Cv2 library is used here for many purposes like for enabling our webcam, capturing frames of video, drawing rectangle around detected objects, etc.
